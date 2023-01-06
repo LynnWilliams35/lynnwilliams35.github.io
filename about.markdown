@@ -5,6 +5,9 @@ permalink: /about
 ---
 
 <bold>hello there</bold>
+>>> hello
+>>> this is great
+
 
 #### Who is Albert Lynn "Lynn" Williams? Here is more information about me!
 
