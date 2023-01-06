@@ -4,6 +4,8 @@ title: About
 permalink: /about
 ---
 
+<bold>hello there</bold>
+
 #### Who is Albert Lynn "Lynn" Williams? Here is more information about me!
 
 * **Title:** President
